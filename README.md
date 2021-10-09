@@ -1,3 +1,13 @@
+## 你发现了ZUST专属彩蛋！wow！看来你的好奇心已经不足以按部就班地跟着教程了。
+
+彩蛋是什么呢？Right，让我给你看一些好玩的东西吧。
+https://github.com/x0rz/EQGRP
+https://github.com/x0rz/EQGRP_Lost_in_Translation
+https://github.com/atiger77/EQGRP-Free-Files
+这是什么？好吧……如果你不认识这是什么，给你个提示吧。还记得5年前的勒索病毒是因为【？？】被泄露而导致的吗？
+
+这是一个示例界面。以下内容为创建Pages的默认内容。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/webatler/webatler.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
